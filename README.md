@@ -1,2 +1,0 @@
-# mapsynq
-Mapsynq repo
